@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035777955447",
+    "project_id": "livez-357308",
+    "storage_bucket": "livez-357308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035777955447:android:4ba7f7f1234e7420971872",
+        "android_client_info": {
+          "package_name": "com.example.livez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035777955447-k701flafi7bn9mm30b335q27gvtnhmmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCccdLMxjO50AA88AQkYOdpvMMLr8ZWoTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035777955447-k701flafi7bn9mm30b335q27gvtnhmmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
